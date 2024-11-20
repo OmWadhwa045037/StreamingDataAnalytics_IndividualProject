@@ -1,3 +1,9 @@
+**Streaming Data Analytics Individual Project**
+
+**Submitted By: Om Wadhwa**
+
+**Roll Number: 045037**
+
 1.	This chart provides a visual representation of customer churn across different regions. The interpretations that can be derived are as follows-
 
 •	Spain has the lowest churn rate, with the fewest customers exiting.
@@ -11,16 +17,16 @@ This analysis highlights the need for further investigation into the reasons for
 
 2.	This chart provides insights into the creditworthiness patterns of customers across different age groups. The interpretations that can be derived are as follows-
 
-•	Peak Creditworthiness: The highest number of customers with credit scores falls within the 30-40 age group. This suggests that individuals in this age range tend to have better credit scores.
+•	Peak Creditworthiness:_ The highest number of customers with credit scores falls within the 30-40 age group. This suggests that individuals in this age range tend to have better credit scores.
 
-•	Declining Creditworthiness: As age increases, the count of customers with credit scores decreases. This trend is particularly noticeable after the 40-50 age group.
+• Declining Creditworthiness: As age increases, the count of customers with credit scores decreases. This trend is particularly noticeable after the 40-50 age group.
 
-•	Lower Creditworthiness: The 70-80 age group has the lowest count of customers with credit scores, indicating that individuals may have less established credit history or lower credit scores.
+• Lower Creditworthiness: The 70-80 age group has the lowest count of customers with credit scores, indicating that individuals may have less established credit history or lower credit scores.
 
 This analysis highlights the varying creditworthiness patterns across different age groups. It can be useful for financial institutions to tailor their lending strategies and risk assessment approaches based on these insights.
 
 
-3.	The chart "Balance vs. Age" explores the relationship between customer age and their account balances. The interpretations that can be derived are as follows-
+3.	The chart **"Balance vs. Age"** explores the relationship between customer age and their account balances. The interpretations that can be derived are as follows-
 
 •	No Strong Correlation: The scatter plot shows a wide spread of data points, indicating that there is no clear linear relationship between age and balance. This suggests that age alone does not significantly impact savings habits.
 
@@ -31,7 +37,7 @@ This analysis highlights the varying creditworthiness patterns across different 
 This analysis indicates that factors other than age, such as income, spending habits, and financial goals, likely play a more significant role in determining savings behavior and account balances.
 
 
-4.	The chart "Complaints vs. Exits" examines the relationship between customer complaints and churn. The interpretations that can be derived are as follows-
+4.	The chart **"Complaints vs. Exits"** examines the relationship between customer complaints and churn. The interpretations that can be derived are as follows-
 
 •	Low Churn Rate: The large green segment indicates that a significant majority of customers who did not complain also did not churn. This suggests that customer satisfaction is a key driver of retention.
 
@@ -40,7 +46,7 @@ This analysis indicates that factors other than age, such as income, spending ha
 This analysis underscores the need for a robust complaint resolution process to improve customer satisfaction and reduce churn. By effectively addressing customer concerns, businesses can foster loyalty and prevent customers from leaving.
 
 
-5.	The chart "Geographical Distribution for GOLD Card Type" provides a visual representation of the distribution of GOLD card customers across different regions. The interpretations that can be derived are as follows-
+5.	The chart **"Geographical Distribution for GOLD Card Type"** provides a visual representation of the distribution of GOLD card customers across different regions. The interpretations that can be derived are as follows-
 
 •	Concentration in Europe: The map shows a significant concentration of GOLD card customers in Europe, particularly in Western Europe. This suggests that the GOLD card is more popular in this region.
 
@@ -51,7 +57,7 @@ This analysis underscores the need for a robust complaint resolution process to 
 This analysis highlights the geographical distribution of GOLD card customers and provides insights into potential areas for further growth and marketing efforts.
 
 
-6.	The chart "Card Type vs. Points Earned" compares the loyalty points earned by active members across different card types. The interpretations that can be derived are as follows-
+6.	The chart **"Card Type vs. Points Earned"** compares the loyalty points earned by active members across different card types. The interpretations that can be derived are as follows-
 
 •	Similar Points Earned: The bars representing each card type have almost the same height, indicating that active members across all card types (GOLD, PLATINUM, SILVER, and DIAMOND) tend to earn a similar number of loyalty points.
 
@@ -60,7 +66,7 @@ This analysis highlights the geographical distribution of GOLD card customers an
 This analysis suggests that other factors, such as spending habits, engagement with loyalty programs, or participation in promotional activities, might be more influential in determining the number of loyalty points earned by active members.
 
 
-7.	The chart "Tenure vs. Average Balance" explores the relationship between customer tenure (length of time with the bank) and their average account balance. The interpretations that can be derived are as follows-
+7.	The chart **"Tenure vs. Average Balance"** explores the relationship between customer tenure (length of time with the bank) and their average account balance. The interpretations that can be derived are as follows-
 
 **Overall Trend:**
 
@@ -93,7 +99,7 @@ This analysis suggests that other factors, such as spending habits, engagement w
 By understanding the relationship between tenure and average balance, the bank can implement targeted strategies to enhance customer retention and drive deposit growth.
 
 
-8.	The heatmap "Heatmap of Satisfaction vs. Credit Score by Card Type (Exited Customers)" visualizes the distribution of card types among exited customers based on their satisfaction score and credit score. The interpretations that can be derived are as follows-
+8.	The heatmap **"Heatmap of Satisfaction vs. Credit Score by Card Type (Exited Customers)"** visualizes the distribution of card types among exited customers based on their satisfaction score and credit score. The interpretations that can be derived are as follows-
 
 **Overall Observations:**
 
@@ -112,7 +118,7 @@ By understanding the relationship between tenure and average balance, the bank c
 By understanding the relationship between satisfaction, credit score, card type, and churn, the bank can take proactive measures to improve customer retention and reduce churn.
 
 
-9.	The chart "Distribution of Card Type as per Age" analyzes which age groups are more likely to hold specific types of cards. The interpretations that can be derived are as follows-
+9.	The chart **"Distribution of Card Type as per Age"** analyzes which age groups are more likely to hold specific types of cards. The interpretations that can be derived are as follows-
 
 **Overall Observations:**
 
@@ -143,7 +149,7 @@ By understanding the relationship between satisfaction, credit score, card type,
 By understanding the relationship between age and card type preference, the bank can make informed decisions about product offerings, marketing strategies, and customer segmentation to better serve its diverse customer base.
 
 
-10.	The chart "Geography vs. Satisfaction Score and Points Earned" compares the average satisfaction scores and the frequency of points earned across different geographical regions. The interpretations that can be derived are as follows-
+10.	The chart **"Geography vs. Satisfaction Score and Points Earned"** compares the average satisfaction scores and the frequency of points earned across different geographical regions. The interpretations that can be derived are as follows-
 
 **Overall Observations:**
 
