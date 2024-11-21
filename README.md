@@ -4,6 +4,9 @@
 
 **Roll Number: 045037**
 
+![Project 1](https://github.com/user-attachments/assets/788eb081-79a5-4a20-b434-4204deb0bb0e)
+
+
 1.	This chart provides a visual representation of customer churn across different regions. The interpretations that can be derived are as follows-
 
 •	Spain has the lowest churn rate, with the fewest customers exiting.
